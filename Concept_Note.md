@@ -33,7 +33,7 @@ To build a personal strong encrypted 2FA system
 6. Secure storage: The place where the user's authentication information, such as their password or biometric data, is securely stored.
 
 ### Architectural Diagram 
-[architecture diagram](https://github.com/sarankirthic/Project_Dr1pDr0p/blob/main/Architectural_Diagram.png)
+<img src="https://github.com/sarankirthic/Project_Dr1pDr0p/blob/main/Architectural_Diagram.png" alt="architecture diagram">
 
 ## Conclusion
 The implementation of two-factor authentication (2FA) can have several benefits, including:
